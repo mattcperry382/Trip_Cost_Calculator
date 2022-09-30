@@ -1,6 +1,6 @@
 # trip_cost_app
 
-A new Flutter project.
+An app to calculate the cost for a trip that works with different currencies and measurement systems. Tutorial app for Pluralsight Flutter course.
 
 ## Getting Started
 
